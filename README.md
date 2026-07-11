@@ -1,2 +1,2 @@
-# mon-blog-tesla
-Blog personnel sur la vie au quotidien avec une Tesla Model Y — retours d'expérience, conseils de recharge et parrainage.
+Volt & Route 
+Un carnet de bord sur le passage à l'électrique. J'y partage mon expérience concrète avec ma Tesla Model Y : premières impressions, coûts de recharge à domicile vs Superchargers, usage de l'Autopilot au quotidien, et quelques conseils pour celles et ceux qui envisagent de franchir le pas. Le site inclut mon lien de parrainage Tesla, qui offre des kilomètres de recharge gratuits aux nouveaux acheteurs.
