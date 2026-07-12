@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kelb42.github.io/mon-blog-tesla/sitemap.xml
